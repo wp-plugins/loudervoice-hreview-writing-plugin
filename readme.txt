@@ -3,7 +3,7 @@ Contributors: johnbillion, conoro
 Tags: loudervoice, hreview, reviews, microformat
 Requires at least: 2.0.3
 Tested up to: 2.7
-Stable tag: 2.1
+Stable tag: 2.1.1
 
 Allows you to easily insert correctly formatted LouderVoice reviews into your blog posts.
 
