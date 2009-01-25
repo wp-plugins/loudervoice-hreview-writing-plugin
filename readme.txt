@@ -16,8 +16,9 @@ By using our plugin, your reviews are formatted using an open standard called hr
 1. Extract all files from the ZIP file, making sure to keep the file structure intact, and then upload it to /wp-content/plugins/ so that you end up with a structure like this:
 	- wp-content
 		- plugins
-			- loudervoice
+			- loudervoice-hreview-writing-plugin
 				| loudervoice.css
+				| loudervoice.end
 				| loudervoice.js
 				| loudervoice.php
 				| readme.txt
@@ -30,6 +31,7 @@ By using our plugin, your reviews are formatted using an open standard called hr
 					| 4outof5.gif
 					| 5outof5.gif
 					| loudervoice.png
+2. If you'd prefer to have the itemname and stars at the end of the blog post along with the other hreview metadata, then replace loudervoice.php with loudervoice.end					
 2. Activate the LouderVoice plugin through the 'Plugins' menu in WordPress.
 3. Go to the Settings -> LouderVoice menu and enter your LouderVoice username.
 
