@@ -3,7 +3,7 @@ Contributors: johnbillion, conoro
 Tags: loudervoice, hreview, reviews, microformat
 Requires at least: 2.0.3
 Tested up to: 2.7
-Stable tag: 2.2
+Stable tag: 2.21
 
 This plugin is deprecated. Please do not use or install.
 

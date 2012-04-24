@@ -2,7 +2,7 @@
 /*
 Plugin Name: LouderVoice
 Description: Allows you to easily insert correctly formatted LouderVoice reviews into your blog posts. [&nbsp;<a href="options-general.php?page=loudervoice">Settings</a>&nbsp;&bull;&nbsp;<a href="../wp-content/plugins/loudervoice/readme.txt">Readme</a>&nbsp;]
-Version:     2.2
+Version:     2.21
 Author:      LouderVoice
 Plugin URI:  http://www.loudervoice.com/
 Author URI:  http://www.loudervoice.com/
@@ -31,7 +31,7 @@ class LouderVoice {
 	function LouderVoice() {
 		$this->plugin = array(
 			'path'    => '' . WP_PLUGIN_URL . '/' . basename( dirname( __FILE__ ) ),
-			'version' => '2.2'
+			'version' => '2.21'
 		);
 
 		if ( $this->is( 'post.php' ) or
